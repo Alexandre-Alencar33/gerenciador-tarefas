@@ -21,12 +21,12 @@ Aplicação de console em Java para gerenciar uma lista de tarefas: adicionar, l
 
 ## Estrutura do projeto
 
-```
+`````
 .
 ├── Main.java                # Menu interativo e leitura da entrada do usuário
 ├── Tarefa.java              # Modelo: id, descrição e status de conclusão
 └── GerenciadorTarefas.java  # Regras de negócio: adicionar, listar, concluir, remover e buscar
-```
+`````
 
 ## Como executar
 
@@ -35,8 +35,8 @@ Pré-requisito: JDK instalado (versão 8 ou superior).
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-cd NOME-DO-REPOSITORIO
+git clone https://github.com/Alexandre-Alencar33/gerenciador-tarefas/commit/a4d7269a9e596a04465a67d65659b0038f3dc428
+cd gerenciador-tarefas
 ```
 
 2. Compile:
